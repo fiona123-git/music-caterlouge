@@ -10,4 +10,5 @@ to  install the program file  you need to go github click on the project then go
 
  A description of the measures
  helmet was used for security and the api key was called from the backend
-d. A link to the deployed app
+ link to the deployed app
+ https://itunes-react.herokuapp.com/
